@@ -1,4 +1,4 @@
-# SEO Optimization Report — Hermes Data Services Pages
+# SEO Optimization Report — Mr Bubba Services Pages
 
 **Date:** 2026-09-14  
 **Pages Optimized:** 5  
@@ -69,7 +69,7 @@ Multiple schema types per page:
 - Added "Other Services We Offer" section to every page
 - Each page links to 3 other service pages with descriptive anchor text
 - Footer cross-links added for additional internal link juice
-- Creates a hub-and-spoke architecture around the Hermes store
+- Creates a hub-and-spoke architecture around the Mr Bubba store
 
 ### 11. Image Alt Attributes
 - All Font Awesome icons marked with `aria-hidden="true"` (decorative)
@@ -92,7 +92,7 @@ Multiple schema types per page:
 ### 14. Author Markup
 - `article:author` meta tags (Open Graph)
 - Author schema in JSON-LD Article markup
-- Consistent "Hermes Data Services" as author across all pages
+- Consistent "Mr Bubba Services" as author across all pages
 
 ### 15. Publisher Markup
 - `meta name="publisher"` tags
